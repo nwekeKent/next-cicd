@@ -2,4 +2,6 @@
 # Run Prettier and ESLint on staged files
 npx lint-staged
 
-npx --no -- commitlint --edit $1
+echo "Running linting and fix..."
+
+# additionally, you can add your test command here
