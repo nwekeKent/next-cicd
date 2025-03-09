@@ -18,7 +18,7 @@ const config = [
   {
     rules: {
       'no-console': 'warn',
-      'no-unused-vars': 'warn',
+      'no-unused-vars': 'error',
     },
   },
 ];
