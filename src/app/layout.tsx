@@ -9,7 +9,7 @@ const geistSans = Geist({
 
 export const metadata: Metadata = {
   title: 'CI/CD NEXT',
-  description: 'CI/CD NEXT',
+  description: 'CI/CD NEXT JS',
 };
 
 export default function RootLayout({

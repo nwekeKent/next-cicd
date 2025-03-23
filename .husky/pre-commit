@@ -1,4 +1,3 @@
-
 # Run Prettier and ESLint on staged files
 npx lint-staged
 
