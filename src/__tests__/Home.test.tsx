@@ -1,7 +1,7 @@
 /// <reference types="jest"
 import { render, screen } from '@testing-library/react';
 import '@testing-library/jest-dom';
-import Home from '../page';
+import Home from '../app/page';
 
 describe('Home Page', () => {
   it('renders the Next.js logo', () => {
